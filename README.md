@@ -1,4 +1,4 @@
-# pure-sine-wave-inverter
+# green-energy
 
 This is an Open source pure sine wave solar inverter, it is composed 
 of the following boards;
