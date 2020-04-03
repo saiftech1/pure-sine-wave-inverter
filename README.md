@@ -1,7 +1,7 @@
 # pure-sine-wave-inverter
 
-Open source pure sine wave solar inverter is composed 
-Of the following boards;
+This is an Open source pure sine wave solar inverter, it is composed 
+of the following boards;
 
 1. Oscillator Board: Testing stage.
 2. Power Board: Testing stage.
@@ -15,7 +15,21 @@ Of the following boards;
 This board will house the spwm chip, the mos driver, buzer,
 Relay driver, Fan driver, eeprom memory, etc.
 
-2. 
+It can be used for power and vfd inverter depending 
+on its configuration.
+
+2. Power Board 
+
+i. Power Inverter Board
+
+ii. VFD Inverter Board.
+
+3. Display Board
+
+i. LCD 16x2
+ii. LCD 20x4
+
+
 
 
 
